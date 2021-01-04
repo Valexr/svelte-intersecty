@@ -1,6 +1,7 @@
 # svelte-intersecty
 
-intersectionObserver as action and component for [SvelteJS](https://svelte.dev). [demo](https://svelte.dev/repl/de6a6dcc92ee43d19ad2274599ba34c8?version=3.12.1)
+IntersectionObserver as action and component for [SvelteJS](https://svelte.dev). 
+<!-- [demo](https://svelte.dev/repl/de6a6dcc92ee43d19ad2274599ba34c8?version=3.12.1)
 
 ## Usage
 
@@ -79,4 +80,4 @@ OR import `imask` action to get full control.
 
 ## License
 
-MIT &copy; [PaulMaly](https://github.com/PaulMaly)
+MIT &copy; [PaulMaly](https://github.com/PaulMaly) -->
